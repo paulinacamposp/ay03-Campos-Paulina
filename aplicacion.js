@@ -9,8 +9,8 @@ $(document).ready(function(){
         $("#parrafo3").text("Buenas vibras");
     });
 
-    $("#div3").mouseenter(funtion(){
+    $("#div3").mouseenter(function(){
         $(this).css("background-color","red");
     });
-}));
+});
 
